@@ -27,8 +27,8 @@ Alchemy RPC (Sepolia / Polygon Amoy)
 
 🚀 Getting Started
 🔗 Clone the repository
-git clone https://github.com/Pratyakshpal-web/MYcrypto-Tokens.git
-cd MYcrypto-Tokens
+git clone https://github.com/Pratyakshpal-web/FUTURE_BC_01.git
+cd FUTURE_BC_01/Task2-Mycrypto-Tokens
 
 ⚙️ Build & Test
 forge build
